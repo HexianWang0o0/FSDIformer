@@ -1,0 +1,8 @@
+pytorch-wavelets 
+pywavelets
+numpy
+matplotlib
+pandas
+scikit-learn
+torch==2.4.0
+
