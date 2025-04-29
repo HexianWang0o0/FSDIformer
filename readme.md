@@ -2,7 +2,7 @@
 
 This project proposes a novel deep learning architecture for accurate wind power forecasting. It leverages historical data, advanced neural network design, and scalable training scripts to deliver strong performance across various wind farm scenarios.
 
-## 📄 Our paper has been published in *Energy*: [Read here](https://doi.org/xxx)
+## 📄 Our paper has been published in *Energy*: [Read here](https://doi.org/10.1016/j.energy.2025.136199)
 
 ## 🚀 Get Started
 
