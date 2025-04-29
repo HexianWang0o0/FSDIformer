@@ -1,6 +1,8 @@
-# 🌬️ A Novel Deep Learning Wind Power Forecasting Model
+# 🌬️ A Novel Frequency Sparse Downsampling Interaction Transformer for Wind Power Forecasting
 
 This project proposes a novel deep learning architecture for accurate wind power forecasting. It leverages historical data, advanced neural network design, and scalable training scripts to deliver strong performance across various wind farm scenarios.
+
+## 📄 Our paper has been published in *Energy*: [Read here](https://doi.org/xxx)
 
 ## 🚀 Get Started
 
